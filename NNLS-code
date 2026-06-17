@@ -14,7 +14,7 @@ import os
 
 
 # ============================================
-# PATH + FILE NAMES -- changed by the user !
+# PATH + FILE NAMES -- to be changed by the user !
 # ============================================
 path = "/Users/Name/Desktop/Folder"
 
