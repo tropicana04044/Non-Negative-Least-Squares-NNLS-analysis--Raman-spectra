@@ -12,7 +12,6 @@ from scipy.optimize import nnls
 from scipy.interpolate import interp1d
 import os
 
-
 # ============================================
 # PATH + FILE NAMES -- to be changed by the user !
 # ============================================
