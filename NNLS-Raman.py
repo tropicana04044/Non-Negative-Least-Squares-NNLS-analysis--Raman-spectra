@@ -1,5 +1,6 @@
 # Raman Mixture Analysis with NNLS - NonNegative Least Squares
 # => Quantify several compounds in MRT spectra
+# This code is released under the GPL v3.0 license
 """
 Filename: NNLS-Raman.py
 Author: Lucille Kuster
